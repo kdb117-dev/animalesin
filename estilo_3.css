@@ -1,0 +1,152 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.98eef5af5a19d7080845fe51311d957f?rik=Zl7Frh%2b5bpFi2w&riu=http%3a%2f%2f1.bp.blogspot.com%2f-zKX8CREi3QY%2fT2OMZgW3s6I%2fAAAAAAAAWzg%2f5sFH754c6sw%2fs1600%2fLos-mas-Hermosos-Paisajes-Naturales_04.jpg&ehk=A5duiR2F2V2mfQjbuU33wpthxZXzqvPo5UMVfvokH9Y%3d&risl=&pid=ImgRaw&r=0);
+    
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1{
+    color: blanchedalmond;
+    border-width: 5px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    border-style: groove;
+    }
+    h1{
+        background-color: #103298;
+        border-width: 5px;
+        border-color: rgb(175, 104, 213);
+        border-radius: 20px;
+        border-style: groove;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(17, 9, 82);
+    align-content: center;
+    }
+    div{
+        background-color: rgb(216, 216, 216);
+        padding: 6px 10px;
+        border-width: 5px;
+        border-color: rgb(40, 40, 148);
+        border-radius: 20px;
+        border-style: groove;
+    }
+    form{
+        background-image: url(vertebrados1.jpg);
+        padding: 6px 10px;
+        border-width: 5px;
+        border-color: rgb(199, 167, 167);
+        border-radius: 20px;
+        border-style: groove;
+        
+    }
+    src{
+    background-color: #cfcfcf;
+    border-width: 5px;
+    border-color: rgb(111, 210, 114);
+    border-radius: 5px;
+    border-style: groove;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: rgb(78, 44, 129);
+    align-content: center;
+    }
+    a{
+    background-color: rgb(252, 252, 252);
+        border-style: groove;
+        
+    }
+    img{
+        border-radius: 10px;
+        border-style: groove;
+        border-color: rgb(93, 81, 105);
+    }
+    table{
+        padding: 20px;
+        border-radius: 10px;
+        border-style: groove;
+        border-color: rgb(186, 180, 180);
+        background-color: #a9aaab;
+    }
+    
+    h1{ background-color: #246e19;
+        border-width: 5px;
+        border-color: rgb(195, 179, 179);
+        border-radius: 20px;
+        border-style: groove;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    align-content: center;
+    
+    }
+    a{
+        background-color: #cfcfcf;
+        border-width: 5px;
+        border-color: rgb(255, 255, 255);
+        border-radius: 20px;
+        border-style: groove;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    align-content: center;
+    }
+    h3{ background-color:#cfcfcf;
+        border-width: 5px;
+        border-color: rgb(32, 58, 118);
+        border-radius: 10px;
+        border-style: groove;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: rgb(0, 0, 0);
+    align-content: center;
+    
+    }
+    
+    label{
+        background-color:#cfcfcf;
+        border-width: 5px;
+        border-color: rgb(77, 41, 150);
+        border-radius: 10px;
+        border-style: groove;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(75, 40, 151);
+    align-content: center;
+    
+    }
+
+a:hover{
+padding: 0px;
+text-decoration: none;
+list-style: none;
+
+
+        color: rgba(black);
+        background:0,0,0,0.2;
+        animation:1s ms 1;}
+        
+        @keyframes ms {
+        0%{
+        opacity: 0;
+        transform: scale(1.6);
+        }
+    }
+
+a{
+        display: block;
+        padding: 0px;
+text-decoration: none;
+list-style: none;
+background-color:#246e19;(22, 207, 71);
+}
